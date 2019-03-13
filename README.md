@@ -1,6 +1,9 @@
 # python-for-data-science
 Devoir à la maison - Ludovic Ransau
 
+Vous trouverez dans le répertoire courant le fichier data_science_ludovic_ransau.
+Il contient la préparation des données, la visualisation des données et le modèle de machine learning.
+
 # Listing of attributes: 
 
 >50K, <=50K. 
